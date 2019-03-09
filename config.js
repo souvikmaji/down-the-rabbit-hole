@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  url: 'https://blog.downtherabbithole.dev',
+  title: 'Down The Rabbit Hole',
+  subtitle: 'whoops',
+  copyright: '© No rights reserved. Go Nuts',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -23,14 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Souvik',
+    photo: '/myself.jpg',
+    bio: 'Developer, Reader, Movie Lover',
     contacts: {
-      email: '#',
+      email: 'souvikmaji94@gmail.com',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'souvikmaji',
       rss: '#',
       vkontakte: '#'
     }
