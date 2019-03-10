@@ -5,7 +5,7 @@ module.exports = {
   title: 'Down The Rabbit Hole',
   subtitle: 'whoops',
   copyright: '© No rights reserved. Go Nuts',
-  disqusShortname: '',
+  disqusShortname: 'souvikmaji',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
