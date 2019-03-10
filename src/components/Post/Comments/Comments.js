@@ -11,7 +11,8 @@ export const PureComments = ({ data, postTitle, postSlug }) => {
   if (!disqusShortname) {
     return null;
   }
-
+  console.log('siteUrl', siteUrl);
+  console.log('postSlug', postSlug);
   return (
     <ReactDisqusComments
       shortname={disqusShortname}
