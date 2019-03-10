@@ -1,7 +1,5 @@
 node_modules/
 .cache/
-public/*
-!public/.gitkeep
 npm-debug.log
 .eslintcache
 .gatsby-context.js
